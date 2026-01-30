@@ -51,4 +51,4 @@ Is a single emulator the best choice for all patients? / Do anatomical differenc
 **GPyTorch** (Gaussian Processes) <br>
 **UQPy** (uncertainty quantification)
 
-**Funding :** Funded by the Wellcome Trust and completed at the University of Nottingham
+**Funding :** Funded by the Wellcome Trust and completed at the University of Nottingham under the supervision of Dr Christopher Lanyon.
